@@ -57,8 +57,7 @@ project-root/
 │   │   └── common/           # Общи DTO обекти
 │   │       ├── SortRequest.java
 │   │       └── SortResponse.java
-│   └── test/java/            # Unit и Integration тестове
+│   └── test/java/            # Unit тестове
 │       ├── server/
-│       ├── client/
 │       └── common/'''
 
