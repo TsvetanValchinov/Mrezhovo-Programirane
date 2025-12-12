@@ -8,7 +8,7 @@ public class ParallelMergeSorter extends RecursiveAction {
     private final int left;
     private final int right;
 
-    private static final int THRESHOLD = 100;
+    public static final int THRESHOLD = 100;
 
     public ParallelMergeSorter(int[] array, int left, int right) {
         this.array = array;
