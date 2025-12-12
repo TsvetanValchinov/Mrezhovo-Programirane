@@ -1,6 +1,6 @@
 # Parallel Mergesort Client-Server Application
 
-Това е Java проект, реализиращ клиент-сървърна архитектура за паралелно сортиране на данни. Приложението използван **Java Sockets**, **Object Serialization** и **Fork/Join Framework** за многонишково програмиране.
+Това е Java проект, реализиращ клиент-сървърна архитектура за паралелно сортиране на данни. Приложението използва **Java Sockets**, **Object Serialization** и **Fork/Join Framework** за многонишково програмиране.
 
 ## Функционалности
 
